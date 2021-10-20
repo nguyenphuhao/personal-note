@@ -4,6 +4,7 @@
 - Domain Questionairs: 
   - Form Edit: https://docs.google.com/forms/d/1FRFC33oqQcSlaRhjTrw1g6bYD9RNGQew_QrsFRGA6wc/edit
   - View Form: https://docs.google.com/forms/d/e/1FAIpQLSc2QQ5Bj2Tl4-5PjRzf37efbUfV3qGmkHVuUkz7T7SurDo4iA/viewform
+- Plan Document: https://docs.google.com/spreadsheets/u/1/d/1I146aB1uik_Ws2AajzKLLSWuoU89NmaApK9vp7lAQ_Q/edit#gid=0
 
 # Tools
 - Jira Board: https://pizzahutinternational.atlassian.net/jira/software/c/projects/CD/boards/248
