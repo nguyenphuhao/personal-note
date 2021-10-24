@@ -1,0 +1,446 @@
+# Numbee ONE trait of Senior Developer - Do you have it?
+Link: https://youtu.be/XZ4bs6qQ5rs
+
+## Transcript
+- 00:00
+- i think there's one specific trait that
+- 00:02
+- is most important in becoming a senior developer
+- 00:05
+- developer
+- 00:06
+- let me tell you what it is
+- 00:13
+- what's up everyone my name is james you
+- 00:14
+- quick and i do weekly videos on web
+- 00:16
+- development related topics and in this
+- 00:19
+- video we're going to talk a little bit
+- 00:20
+- about careers and what you need to do to
+- 00:23
+- become a senior developer and i became a
+- 00:26
+- senior developer when i was at fedex i
+- 00:27
+- became an architect so actually i went a
+- 00:29
+- level above that and i have a senior
+- 00:31
+- title now in my role at austiro
+- 00:34
+- and i've kind of spent some time
+- 00:35
+- reflecting on what does that actually
+- 00:36
+- mean a lot of people want to know how do
+- 00:38
+- i get to that next level how do i
+- 00:39
+- progress
+- 00:40
+- and it's really come down to one
+- 00:42
+- important thing but i want to start with
+- 00:43
+- a quote here and this is from amy knight
+- 00:46
+- and this is an interview she did
+- 00:47
+- on one of the microsoft channels i'll
+- 00:49
+- have a link to this the microsoft
+- 00:50
+- developer channel i'll link to this
+- 00:51
+- video below but she says at some point
+- 00:54
+- in her career she went from code that
+- 00:56
+- works to code that a team can use
+- 01:00
+- and this to me i think is the epitome of
+- 01:02
+- what i had come to think of as the
+- 01:04
+- number one trait so i'll tell you what
+- 01:05
+- that trait is
+- 01:06
+- that trait to me for a senior developer
+- 01:08
+- is to be able to turn a complex problem
+- 01:12
+- into smaller simpler ones
+- 01:14
+- breaking down that really tough kind of
+- 01:16
+- intimidating problem into some
+- 01:19
+- chunks that are manageable and
+- 01:20
+- understandable
+- 01:22
+- and i'll add one extra caveat to this so
+- 01:24
+- maybe it's two traits but i think it
+- 01:26
+- kind of goes in one it's being able to
+- 01:28
+- break down those complex problems and
+- 01:30
+- the smaller ones and then also
+- 01:31
+- communicate that when she said code that
+- 01:33
+- works to code that a team can use you
+- 01:35
+- have to be able to communicate you can't
+- 01:37
+- just be so smart and so sophisticated
+- 01:40
+- with the code that you write that people
+- 01:41
+- that are newer can't understand it you
+- 01:43
+- have to be able to communicate to that
+- 01:45
+- to your team as well
+- 01:47
+- and i want to tell you like i'll show
+- 01:48
+- you a code example of this in a second
+- 01:50
+- but i want to i want to tell you a story
+- 01:52
+- of when i started at fedex and when i
+- 01:54
+- started at fedex as my first full-time
+- 01:57
+- software development job i worked at
+- 01:58
+- microsoft for several years but didn't
+- 02:00
+- write code on a daily basis
+- 02:02
+- so i started fedex and i was trying to
+- 02:04
+- like kind of learn the source code of
+- 02:05
+- the project that i was looking in and i
+- 02:07
+- realized i was going like if i was
+- 02:09
+- trying to figure out one piece of
+- 02:10
+- functionality i was going from function
+- 02:12
+- call to function call to another class
+- 02:15
+- another file another function call
+- 02:16
+- another class another like 10 10
+- 02:18
+- function calls that were all chained
+- 02:20
+- together and i remember thinking like
+- 02:22
+- wow this is this is really intimidating
+- 02:24
+- there's a ton going on here
+- 02:26
+- but i didn't really appreciate at the
+- 02:28
+- time how well this solution was broken
+- 02:31
+- out it was broken into those many
+- 02:32
+- different files for a very specific
+- 02:34
+- reason and that reason was because these
+- 02:37
+- functions if you've heard this before
+- 02:38
+- these functions did one thing these
+- 02:40
+- classes had one responsibility and they
+- 02:42
+- were organized in a way that
+- 02:44
+- individually they made sense and now you
+- 02:46
+- just have to kind of piece them together
+- 02:48
+- and i look at like how that could have
+- 02:50
+- been a fairly
+- 02:51
+- complex problem and gotten to that point
+- 02:53
+- where it's broken out really well and
+- 02:55
+- and kind of another level of this is
+- 02:58
+- after a year or so
+- 02:59
+- we decided to rebuild an application
+- 03:01
+- from scratch and i remember thinking
+- 03:03
+- about this senior developer who was
+- 03:05
+- basically creating the majority of the
+- 03:07
+- code to start this thing out for us
+- 03:10
+- and he had he had his ideas of his
+- 03:12
+- classes his interfaces what
+- 03:14
+- functionality was going to go where
+- 03:15
+- because he was able to break that stuff
+- 03:17
+- down and then communicate that to us as
+- 03:19
+- well when we had questions
+- 03:21
+- now one of the interesting things for me
+- 03:23
+- kind of a turning point in my career was
+- 03:25
+- as i got more comfortable
+- 03:27
+- in my knowledge and the code base and
+- 03:28
+- things like that i started to kind of
+- 03:30
+- question things that were going on and i
+- 03:32
+- think that's really important not in a
+- 03:33
+- disrespectful way but being able to
+- 03:35
+- speak up ask those questions and also
+- 03:37
+- say hey why why is it this way instead
+- 03:39
+- of that way or wouldn't this other way
+- 03:40
+- have these other benefits and i think i
+- 03:42
+- earned a lot of respect for my team of
+- 03:44
+- not only being able to execute on what
+- 03:46
+- we are trying to do but also asking
+- 03:47
+- those questions and not being afraid to
+- 03:50
+- challenge people to say is this really
+- 03:51
+- the best thing or are there or are there
+- 03:54
+- alternative routes that we can go so
+- 03:56
+- that was a little bit of my experience
+- 03:57
+- at fedex of working with senior
+- 03:59
+- developers and then eventually becoming
+- 04:00
+- one myself again number one trait here
+- 04:03
+- is to turn a complex problem and to
+- 04:05
+- break it down into a bunch of smaller
+- 04:07
+- simpler ones that everyone can
+- 04:08
+- understand so let me show you a little
+- 04:10
+- bit of a piece of
+- 04:12
+- code a good example of the benefits of
+- 04:14
+- breaking down your code into smaller
+- 04:16
+- problems
+- 04:17
+- all right so i'm inside of what is
+- 04:19
+- actually the source code behind the
+- 04:21
+- compressed fm website so compressed fm
+- 04:24
+- is the podcast that i run with my
+- 04:25
+- co-host amy dutton and this is the uh
+- 04:28
+- the the code behind the website and i
+- 04:30
+- just wanted to show like how well broken
+- 04:32
+- out all of this stuff is because you
+- 04:34
+- look at there's tons of files in here
+- 04:36
+- right and this can be really
+- 04:37
+- intimidating especially as a new
+- 04:39
+- developer
+- 04:40
+- you join a project and there's there's
+- 04:41
+- hundreds of files maybe it's really hard
+- 04:43
+- to kind of uh internalize that and kind
+- 04:45
+- of understand it but i i think it was
+- 04:47
+- really important and this was this was a
+- 04:49
+- sign to me of how well done this stuff
+- 04:51
+- was of being able to break these things
+- 04:53
+- out into different
+- 04:54
+- places so if you start this is a next.js
+- 04:56
+- project it's not super important what it
+- 04:58
+- is uh but under pages we have uh all of
+- 05:01
+- our different individual pages and then
+- 05:02
+- some of these have like nested pages so
+- 05:04
+- it would be like slash dashboard slash
+- 05:06
+- guest slash sponsor that sort of stuff
+- 05:08
+- then we have our api this is our api
+- 05:10
+- routes
+- 05:11
+- and then we have our different modules
+- 05:14
+- so inside of like the about page for
+- 05:16
+- example here's the about page
+- 05:18
+- here are the different components that
+- 05:20
+- go with this about page and so i like
+- 05:23
+- how this is broken out into very clean
+- 05:25
+- modules where you have this page here as
+- 05:26
+- well now you'll notice if we go down
+- 05:28
+- back to the pages we also have an
+- 05:30
+- about.js here but the thing is that this
+- 05:33
+- thing will do kind of the queries so it
+- 05:35
+- will kind of specifically focus on the
+- 05:37
+- queries
+- 05:38
+- and then display a little bit of
+- 05:40
+- information but really what it displays
+- 05:41
+- is the actual about page itself so it
+- 05:43
+- grabs the information and then passes
+- 05:45
+- that information along to the about page
+- 05:47
+- now this is just kind of a random
+- 05:49
+- example
+- 05:50
+- but the opposite of that would be to
+- 05:51
+- throw all this code into one file and
+- 05:53
+- have it be really big and unclean and so
+- 05:56
+- she was able to break down and look at
+- 05:57
+- like here are the different things that
+- 05:59
+- we're gonna have break those into a nice
+- 06:00
+- folder structure for everyone to be able
+- 06:02
+- to follow and understand and then have
+- 06:04
+- this like separation of concerns of what
+- 06:06
+- components are doing what same thing
+- 06:08
+- same idea with functions functions
+- 06:10
+- should do one thing and you should split
+- 06:12
+- them out so that each one only does one
+- 06:14
+- thing
+- 06:15
+- so i think this is to me this is a sign
+- 06:17
+- of a senior developer being able to take
+- 06:20
+- like here's the bigger project that we
+- 06:21
+- want to have here's the product that we
+- 06:23
+- want to be able to build in the end
+- 06:25
+- what different components am i going to
+- 06:27
+- have and how do i break those out into
+- 06:28
+- ways that are really clean and easy to
+- 06:30
+- follow and that to me is a symbol of or
+- 06:33
+- is the number one symbol of a senior
+- 06:35
+- developer and going back to the quote
+- 06:37
+- from amy knight that we read at the
+- 06:39
+- beginning of this going from code that
+- 06:41
+- works to code that a team can use and
+- 06:44
+- being able to communicate that to the
+- 06:46
+- team i think is really important so that
+- 06:47
+- is my number one trait of a senior
+- 06:49
+- developer i'm curious what you think
+- 06:51
+- your number one trait would be of a
+- 06:52
+- senior developer let me know in the
+- 06:54
+- comments below hope you enjoyed the
+- 06:55
+- video if you did make sure to like it
+- 06:57
+- subscribe to the channel check out more
+- 06:59
+- content in the meantime thanks for
+- 07:00
+- watching
