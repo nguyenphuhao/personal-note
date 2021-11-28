@@ -28,5 +28,29 @@
 10. Re-import without `--reset` flag 
 11. Verify Fusion Again -> OOS shown.
 
+## OOS Issue Showcases
+
+### Issue 
+
+#### **What**
+
+ `Classic Crust`  does not show in OOS table list in Fusion UI
+
+#### **Why**
+
+Basically, to make the whole `Classic Crust`  to OOS, we need to set all prices entries that asocicate to `clasic` crust to OOS as well.
+
+Especially, Based on the current data structure in ms-menu, to make the Classic Crust, Fusion search all price entries that are associates to `classic` crust then duplicate these prices entries with `available=0` 
+
+#### **Which scenario can cause this issue?**
+
+Migrate OOS data from GS5 to GS6
+
+
+
+
+
+
+
 
 
