@@ -10,8 +10,7 @@
 - Coupon:
   - GMS: https://pizzahutinternational.atlassian.net/wiki/spaces/PV/pages/755761671/8.+Coupon
   - UK: https://pizzahutinternational.atlassian.net/wiki/spaces/O/pages/935952392/Coupons+Discounts+A+User+Guide#Coupons
-
-​    Membership ranking (one way from loyalty provider to PHDV)    Loyalty points  (one way from loyalty provider to PHDV)    Sales/order reports (two ways between GMS & Reactor)
+- Deployment Strategy Recording: https://pizzahutinternational.atlassian.net/wiki/spaces/ARCH/pages/2834366670/25th+November+2021+-+Deployment+Strategy+-+presented+by+Csaba
 
 # Tools
 
